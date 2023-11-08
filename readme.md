@@ -1,3 +1,3 @@
-hello world
-good evening
+hello world \n
+good evening \n
 see you tomorrow
